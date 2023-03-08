@@ -14,6 +14,8 @@ npm i
 
 To use this application you need to open insomnia and run GET, POST, PUT, and DELETE requests. The body for Categories should have a category_name. The body for Products should have product_name, price, stock, and tagIds. The body for Tag should have tag_name.
 
+https://drive.google.com/file/d/1lSVZs1qihfGCPLkMOipgCsQ_R64Ps_1d/view?usp=sharing
+
 ## Credits
 
 N/A
